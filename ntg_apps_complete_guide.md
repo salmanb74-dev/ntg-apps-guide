@@ -16,7 +16,7 @@
 10. [Data Integration](#id-10.-data-integration)
 11. [Advanced Features](#id-11.-advanced-features)
 12. [System Administration](#id-12.-system-administration)
-13. [Troubleshooting and Best Practices](#id-.13-troubleshooting-and-best-practices)
+13. [Troubleshooting and Best Practices](#id-13.-troubleshooting-and-best-practices)
 
 ---
 
