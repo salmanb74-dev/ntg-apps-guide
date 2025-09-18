@@ -1,4 +1,4 @@
-# NTG Apps Reference Guide
+# README
 
 Welcome to the comprehensive reference guide for NTG Apps - a powerful rapid application development platform for building web applications with responsive mobile interfaces.
 
