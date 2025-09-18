@@ -1,16 +1,17 @@
-Table of Contents
-⦁	Introduction
-⦁	NTG Apps Complete Reference Guide
-⦁	1. Introduction and Platform Overview
-⦁	2. Getting Started
-⦁	3. Building Applications
-⦁	4. Form Development
-⦁	5. Data Management
-⦁	6. Business Logic and Rules
-⦁	7. Workflow and Process Management
-⦁	8. Charts and Dashboards
-⦁	9. Landing Pages and Navigation
-⦁	10. Data Integration
-⦁	11. Advanced Features
-⦁	12. System Administration
-⦁	13. Troubleshooting and Best Practices
+# Table of Contents
+
+* [Introduction](README.md)
+* [NTG Apps Complete Reference Guide](ntg-apps-guide.md)
+  * [1. Introduction and Platform Overview](ntg-apps-guide.md#1-introduction-and-platform-overview)
+  * [2. Getting Started](ntg-apps-guide.md#2-getting-started)
+  * [3. Building Applications](ntg-apps-guide.md#3-building-applications)
+  * [4. Form Development](ntg-apps-guide.md#4-form-development)
+  * [5. Data Management](ntg-apps-guide.md#5-data-management)
+  * [6. Business Logic and Rules](ntg-apps-guide.md#6-business-logic-and-rules)
+  * [7. Workflow and Process Management](ntg-apps-guide.md#7-workflow-and-process-management)
+  * [8. Charts and Dashboards](ntg-apps-guide.md#8-charts-and-dashboards)
+  * [9. Landing Pages and Navigation](ntg-apps-guide.md#9-landing-pages-and-navigation)
+  * [10. Data Integration](ntg-apps-guide.md#10-data-integration)
+  * [11. Advanced Features](ntg-apps-guide.md#11-advanced-features)
+  * [12. System Administration](ntg-apps-guide.md#12-system-administration)
+  * [13. Troubleshooting and Best Practices](ntg-apps-guide.md#13-troubleshooting-and-best-practices)
