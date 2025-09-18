@@ -83,6 +83,7 @@ graph TB
     style E fill:#fce4ec
     style F fill:#f1f8e9
 ```
+
 *Figure 1: NTG Apps five core engines structure*
 
 NTG Apps has five main core engines that work together:
