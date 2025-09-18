@@ -41,7 +41,6 @@ The platform allows you to build forms with an easy-to-use graphical interface d
 You can use either Oracle or PostgreSQL, but you only need one database type per installation.
 
 ### 1.3 Core Engines
-```markdown
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
 graph TB
