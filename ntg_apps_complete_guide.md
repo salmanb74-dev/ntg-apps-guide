@@ -5,18 +5,18 @@
 ## Table of Contents
 
 1. [Introduction and Platform Overview](#id-1.-introduction-and-platform-overview)
-2. [Getting Started](#2-getting-started)
-3. [Building Applications](#3-building-applications)
-4. [Form Development](#4-form-development)
-5. [Data Management](#5-data-management)
-6. [Business Logic and Rules](#6-business-logic-and-rules)
-7. [Workflow and Process Management](#7-workflow-and-process-management)
-8. [Charts and Dashboards](#8-charts-and-dashboards)
-9. [Landing Pages and Navigation](#9-landing-pages-and-navigation)
-10. [Data Integration](#10-data-integration)
-11. [Advanced Features](#11-advanced-features)
-12. [System Administration](#12-system-administration)
-13. [Troubleshooting and Best Practices](#13-troubleshooting-and-best-practices)
+2. [Getting Started](#id-2.-getting-started)
+3. [Building Applications](#id-3.-building-applications)
+4. [Form Development](#id-4.-form-development)
+5. [Data Management](#id-5.-data-management)
+6. [Business Logic and Rules](#id-6.-business-logic-and-rules)
+7. [Workflow and Process Management](#id-7.-workflow-and-process-management)
+8. [Charts and Dashboards](#id-8.-charts-and-dashboards)
+9. [Landing Pages and Navigation](#id-9.-landing-pages-and-navigation)
+10. [Data Integration](#id-10.-data-integration)
+11. [Advanced Features](#id-11.-advanced-features)
+12. [System Administration](#id-12.-system-administration)
+13. [Troubleshooting and Best Practices](#id-.13-troubleshooting-and-best-practices)
 
 ---
 
