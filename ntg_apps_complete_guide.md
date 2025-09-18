@@ -43,14 +43,13 @@ You can use either Oracle or PostgreSQL, but you only need one database type per
 
 ### 1.3 Core Engines
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-%%{wrap}%%
-flowchart TD
-    A[NTG Apps Platform] --> B[Form Builder]
-    A --> C[Rules Builder]
-    A --> D[Workflow Engine]
-    A --> E[Security Engine]
-    A --> F[SLA and Scheduler]
+graph TD
+    NTG[NTG Apps Platform]
+    NTG --> FB[Form Builder]
+    NTG --> RB[Rules Builder]
+    NTG --> WE[Workflow Engine]
+    NTG --> SE[Security Engine]
+    NTG --> SLA[SLA & Scheduler]
 ```
 *Figure 1: Five core engines structure*
 
