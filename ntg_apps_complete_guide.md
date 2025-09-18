@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-1. [Introduction and Platform Overview](#1-introduction-and-platform-overview)
+1. [Introduction and Platform Overview](#1.-introduction-and-platform-overview)
 2. [Getting Started](#2-getting-started)
 3. [Building Applications](#3-building-applications)
 4. [Form Development](#4-form-development)
