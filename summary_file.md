@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [NTG Apps Complete Reference Guide](ntg_apps_complete_guide.md)
-  * [1. Introduction and Platform Overview](ntg_apps_complete_guide.md#id-1-introduction-and-platform-overview)
+  * [1. Introduction and Platform Overview](ntg_apps_complete_guide.md#id-1.-introduction-and-platform-overview)
   * [2. Getting Started](ntg_apps_complete_guide.md#id-2-getting-started)
   * [3. Building Applications](ntg_apps_complete_guide.md#id-3-building-applications)
   * [4. Form Development](ntg_apps_complete_guide.md#id-4-form-development)
