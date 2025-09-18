@@ -49,7 +49,8 @@ flowchart LR
     A --> D[Workflow<br/>Engine]
     A --> E[Security<br/>Engine]
     A --> F[SLA &<br/>Scheduler]
-```*Figure 1: Five core engines structure*
+```
+*Figure 1: Five core engines structure*
 
 NTG Apps has five main core engines that work together:
 
