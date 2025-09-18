@@ -40,50 +40,16 @@ The platform allows you to build forms with an easy-to-use graphical interface d
 
 You can use either Oracle or PostgreSQL, but you only need one database type per installation.
 
+
 ### 1.3 Core Engines
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
-graph TB
-    subgraph "NTG Apps Platform"
-        A[NTG Apps Core Platform]
-    end
-    
-    subgraph "Five Core Engines"
-        B[Form Builder]
-        C[Rules Builder]  
-        D[Workflow Engine]
-        E[Security Engine]
-        F[SLA and Scheduler]
-    end
-    
-    subgraph "Capabilities"
-        B1[Drag & Drop Interface<br/>Visual Form Design<br/>UDA Management]
-        C1[Business Logic<br/>Data Validation<br/>Field Calculations]
-        D1[Process Automation<br/>Task Assignment<br/>Approval Flows]
-        E1[User Access Control<br/>Data Privacy<br/>Role Management]
-        F1[Automated Tasks<br/>Time-based Jobs<br/>SLA Monitoring]
-    end
-    
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    A --> F
-    
-    B --> B1
-    C --> C1
-    D --> D1
-    E --> E1
-    F --> F1
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#f1f8e9
-```
-*Figure 1: Five core engines structure*
+flowchart LR
+    A[NTG Apps<br/>Platform] --> B[Form<br/>Builder]
+    A --> C[Rules<br/>Builder]
+    A --> D[Workflow<br/>Engine]
+    A --> E[Security<br/>Engine]
+    A --> F[SLA &<br/>Scheduler]
+```*Figure 1: Five core engines structure*
 
 NTG Apps has five main core engines that work together:
 
