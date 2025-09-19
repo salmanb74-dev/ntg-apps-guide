@@ -34,9 +34,9 @@ This reference guide is based on comprehensive training sessions and covers ever
 - **Project Managers** planning NTG Apps implementations
 
 ## Getting Started
-1. Start with [Introduction and Platform Overview](#id-1.-introduction-and-platform-overview)
-2. Follow the [Getting Started](#id-2.-getting-started)
-3. Work through [Building Applications](#id-3.-building-applications)
+1. Start with [Introduction and Platform Overview](ntg_apps_complete_guide.md#id-1.-introduction-and-platform-overview)
+2. Follow the [Getting Started](ntg_apps_complete_guide.md#id-2.-getting-started)
+3. Work through [Building Applications](ntg_apps_complete_guide.md#id-3.-building-applications)
 4. Progress through each chapter in sequence
 
 ## Language and Accessibility
