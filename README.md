@@ -68,4 +68,4 @@ For additional support:
 This guide is based on practical training sessions and real-world usage. If you find areas that need clarification or have suggestions for improvement, please provide feedback to help make this resource better for all users.
 
 ---
-*Get started by reviewing the [Table of Contents](SUMMARY.md) or jump directly to [Chapter 1: Introduction and Platform Overview](#id-1.-introduction-and-platform-overview)*
+*Get started by reviewing the [Table of Contents](summary_file.md) or jump directly to [Chapter 1: Introduction and Platform Overview](#id-1.-introduction-and-platform-overview)*
